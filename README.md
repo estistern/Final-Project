@@ -6,7 +6,8 @@
 
 [Final Project Tableau Workbook - Esti Stern.pdf](https://github.com/user-attachments/files/18222289/Final.Project.Tableau.Workbook.-.Esti.Stern.pdf)
 
-```[Uploading Final Project Par# Loading the data file
+```
+[Uploading Final Project Par# Loading the data file
 file_path <- "C:\\Users\\besti\\OneDrive\\Desktop\\Sarah Schenirer\\Intro Data Science\\auto-mpg.csv"
 auto_data = read.csv(file_path)
 
@@ -89,6 +90,6 @@ plot(error, xlab="Error", ylab="Residual")
 abline(0,0 ,col='red')
 # Histogram
 hist(error, prob=T, breaks=20, xlab="Error Residual", ylab="Density")
-t 1.R…]()```
-
+t 1.R…]()
+```
 [Final Project Part 1 - Esti Stern.pdf](https://github.com/user-attachments/files/18222293/Final.Project.Part.1.-.Esti.Stern.pdf)
